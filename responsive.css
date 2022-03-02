@@ -1,0 +1,47 @@
+@media (max-width:992px) {
+    .banner-bio {
+        padding-left: 132px;
+    }
+    
+}
+
+@media (max-width:768px) {
+    /* banner-section2 */
+    .banner-section2{
+        text-align: center;
+    }
+    .banner-bio{
+        margin-bottom: 20px;
+    }
+    .banner-bio {
+        padding-left: 132px;
+    }
+    /* pricing-section */
+    .pricing-item{
+        margin-bottom: 23px;
+    }
+    /* team-section */
+    .box-img {
+        margin-top: 95px;
+    }
+    /* form-section */
+    .margin{
+        margin-bottom: 18px;
+    }
+}
+
+@media (max-width:576px) {
+    /* banner-section */
+    .banner{
+        text-align: center;
+    }
+    /* contact-section */
+    .content-section{
+        text-align: center;
+    }
+    /* team-section */
+    .team-section{
+        text-align: center;
+    }
+    
+}
